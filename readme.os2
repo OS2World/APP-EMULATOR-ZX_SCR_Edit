@@ -1,0 +1,22 @@
+This is the OS/2 port of ZX SCR Edit 0.9, a little SDL program to load, view and edit
+ZX Spectrum SCREEN$ files (saved under the .scr extension).
+
+I just tried it with some .scr files (you can download really many of them under
+www.worldofspectrum.org or other sites) and it works fine: the bad news is that it
+is really slow under Panorama VESA. I think if you have an accelerated driver like
+SNAP it should be way faster.
+
+Even if it's a simple program, I think it could be useful to those like me who are
+still devoted to the "old computer generation" and keep their ZX Spectrum somewhere
+in their hearts (and maybe on their benchs).
+
+Start the program on the commandline via "zxscredit <filename>" or create a program
+object on the WPS, so that you can launch it on your desktop and support SCR files
+drag 'n' drop.
+
+IF you like this software, please drop me a line and support OS/2 developing via
+feedback or giving contributions to the OS/2 developers spreaded around the world.
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
